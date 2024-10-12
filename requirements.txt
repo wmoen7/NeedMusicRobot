@@ -1,8 +1,11 @@
+https://github.com/coletdjnz/yt-dlp-youtube-oauth2/archive/refs/heads/master.zip
 pyrogram
 tgcrypto
-yt-dlp
+yt_dlp==2024.09.27
+yt-dlp==2024.09.27
 python-dotenv
 requests
 asgiref
 deezer-python
 spotipy
+git+https://github.com/pukkandan/yt-dlp-YTAgeGateBypass/
